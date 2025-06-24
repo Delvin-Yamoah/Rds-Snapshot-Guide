@@ -161,10 +161,6 @@ aws rds delete-db-instance --db-instance-identifier test-instance --skip-final-s
 
 Feel free to submit issues and enhancement requests!
 
-## 📄 License
-
-This project is for educational purposes. Use at your own risk in production environments.
-
 ---
 
 **Need help?** Check the troubleshooting guides or review the setup steps for common solutions.
